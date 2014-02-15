@@ -1,0 +1,11 @@
+.DS_Store
+Packages/*
+!Packages/User/
+Packages/User/ColorPicker
+Cache/
+Index/
+Local/
+Installed Packages/
+*.tmTheme
+*.cache
+*.last-run

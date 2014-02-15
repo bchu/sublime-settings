@@ -1,0 +1,11 @@
+[
+{ "keys": ["super+shift+i"], "command": "reindent" , "args": {"single_line": true}},
+    {
+        "keys": ["super+shift+r"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0.5,
+            "activate_browser": true,
+            "browser_name" : "Chrome"
+        }
+    }
+]

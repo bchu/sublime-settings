@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"ColorPicker",
+		"GitGutter",
+		"jQuery",
+		"JsFormat",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter"
+	]
+}
