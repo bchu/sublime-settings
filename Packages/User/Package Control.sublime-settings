@@ -5,11 +5,16 @@
 		"BracketHighlighter",
 		"Browser Refresh",
 		"ColorPicker",
+		"GitCommitMsg",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"jQuery",
 		"JsFormat",
+		"Markdown Extended",
+		"MarkdownEditing",
 		"Sass",
 		"SideBarEnhancements",
-		"SublimeLinter"
+		"SublimeLinter",
+		"SublimeLinter-jshint"
 	]
 }
