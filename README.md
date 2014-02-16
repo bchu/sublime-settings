@@ -10,6 +10,7 @@ cd /Users/brian/Library/Application\ Support/Sublime\ Text\ 3
   "BracketHighlighter",
   "Browser Refresh",
   "ColorPicker",
+  "Floobits",
   "GitCommitMsg",
   "GitGutter",
   "HTML-CSS-JS Prettify",
