@@ -20,5 +20,6 @@ cd /Users/brian/Library/Application\ Support/Sublime\ Text\ 3
   "Sass",
   "SideBarEnhancements",
   "SublimeLinter",
-  "SublimeLinter-jshint"
+  "SublimeLinter-jshint",
+  "TrailingSpaces"
 ]
